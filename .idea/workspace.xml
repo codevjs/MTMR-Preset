@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3a36196-874c-47b9-97fe-16e3bdcba274" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/items.json" beforeDir="false" afterPath="$PROJECT_DIR$/items.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +58,30 @@
       <workItem from="1607570344138" duration="336000" />
       <workItem from="1607921944880" duration="33000" />
       <workItem from="1607944754210" duration="50000" />
-      <workItem from="1608226736283" duration="597000" />
+      <workItem from="1608226736283" duration="994000" />
     </task>
+    <task id="LOCAL-00001" summary="Update Readme.md">
+      <created>1608227528403</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608227528403</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add screenshot">
+      <created>1608227573225</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608227573225</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add screenshot">
+      <created>1608227706226</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608227706226</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +97,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update Readme.md" />
+    <MESSAGE value="Add screenshot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add screenshot" />
   </component>
 </project>
