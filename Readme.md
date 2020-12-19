@@ -3,11 +3,11 @@ Here cool touch bar presets for [MTMR](https://github.com/toxblh/mtmr).
 
 ---
 
-![](foto/home.png)
-![](foto/electrical.png)
-![](foto/auxilaries.png)
-![](foto/elections1.png)
-![](foto/elections2.png)
+![](elections/foto/home.png)
+![](elections/foto/electrical.png)
+![](elections/foto/auxilaries.png)
+![](elections/foto/elections1.png)
+![](elections/foto/elections2.png)
 
 Widgets:
 - Battery, Time, Cpu 
