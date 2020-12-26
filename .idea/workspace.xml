@@ -2,14 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3a36196-874c-47b9-97fe-16e3bdcba274" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/water_pump/water_pump_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/water_pump_off.scpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/water_pump_on.scpt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/items.json" beforeDir="false" afterPath="$PROJECT_DIR$/items.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/battery.scpt" beforeDir="false" afterPath="$PROJECT_DIR$/script/battery.scpt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AppleScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,12 +34,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/water_pump" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/water_pump" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -66,7 +77,8 @@
       <workItem from="1608226736283" duration="1226000" />
       <workItem from="1608345213128" duration="3715000" />
       <workItem from="1608738436264" duration="263000" />
-      <workItem from="1609002031862" duration="435000" />
+      <workItem from="1609002031862" duration="530000" />
+      <workItem from="1609003560998" duration="922000" />
     </task>
     <task id="LOCAL-00001" summary="Update Readme.md">
       <created>1608227528403</created>
@@ -110,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608350368342</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Battery notification">
+      <created>1609002519980</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609002519980</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +152,7 @@
     <MESSAGE value="Remove elections result" />
     <MESSAGE value="Update Readme.md" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="Battery notification" />
+    <option name="LAST_COMMIT_MESSAGE" value="Battery notification" />
   </component>
 </project>
