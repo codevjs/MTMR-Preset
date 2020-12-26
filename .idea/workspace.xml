@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3a36196-874c-47b9-97fe-16e3bdcba274" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/items.json" beforeDir="false" afterPath="$PROJECT_DIR$/items.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
       <workItem from="1608345213128" duration="3715000" />
       <workItem from="1608738436264" duration="263000" />
       <workItem from="1609002031862" duration="530000" />
-      <workItem from="1609003560998" duration="2518000" />
+      <workItem from="1609003560998" duration="2669000" />
     </task>
     <task id="LOCAL-00001" summary="Update Readme.md">
       <created>1608227528403</created>
@@ -145,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609006129843</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="update script">
+      <created>1609006220629</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1609006220629</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
