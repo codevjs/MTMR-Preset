@@ -2,36 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3a36196-874c-47b9-97fe-16e3bdcba274" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/script/battery.scpt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/cpu.scpt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bulukumba/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/elections/bulukumba/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bulukumba/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/elections/bulukumba/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bulukumba/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/elections/bulukumba/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bulukumba/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/elections/bulukumba/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bulukumba/elections_1.scpt" beforeDir="false" afterPath="$PROJECT_DIR$/elections/bulukumba/elections_1.scpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bulukumba/elections_2.scpt" beforeDir="false" afterPath="$PROJECT_DIR$/elections/bulukumba/elections_2.scpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bulukumba/elections_3.scpt" beforeDir="false" afterPath="$PROJECT_DIR$/elections/bulukumba/elections_3.scpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bulukumba/elections_4.scpt" beforeDir="false" afterPath="$PROJECT_DIR$/elections/bulukumba/elections_4.scpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bulukumba/elections_total.scpt" beforeDir="false" afterPath="$PROJECT_DIR$/elections/bulukumba/elections_total.scpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bulukumba/elections_version.scpt" beforeDir="false" afterPath="$PROJECT_DIR$/elections/bulukumba/elections_version.scpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foto/auxilaries.png" beforeDir="false" afterPath="$PROJECT_DIR$/elections/foto/auxilaries.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foto/elections1.png" beforeDir="false" afterPath="$PROJECT_DIR$/elections/foto/elections1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foto/elections2.png" beforeDir="false" afterPath="$PROJECT_DIR$/elections/foto/elections2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foto/electrical.png" beforeDir="false" afterPath="$PROJECT_DIR$/elections/foto/electrical.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foto/home.png" beforeDir="false" afterPath="$PROJECT_DIR$/elections/foto/home.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/items.json" beforeDir="false" afterPath="$PROJECT_DIR$/items.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/makassar/1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/elections/makassar/1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/makassar/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/elections/makassar/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/makassar/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/elections/makassar/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/makassar/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/elections/makassar/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/makassar/elections_1.scpt" beforeDir="false" afterPath="$PROJECT_DIR$/elections/makassar/elections_1.scpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/makassar/elections_2.scpt" beforeDir="false" afterPath="$PROJECT_DIR$/elections/makassar/elections_2.scpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/makassar/elections_3.scpt" beforeDir="false" afterPath="$PROJECT_DIR$/elections/makassar/elections_3.scpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/makassar/elections_4.scpt" beforeDir="false" afterPath="$PROJECT_DIR$/elections/makassar/elections_4.scpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/makassar/elections_total.scpt" beforeDir="false" afterPath="$PROJECT_DIR$/elections/makassar/elections_total.scpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/makassar/elections_version.scpt" beforeDir="false" afterPath="$PROJECT_DIR$/elections/makassar/elections_version.scpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/battery.scpt" beforeDir="false" afterPath="$PROJECT_DIR$/script/battery.scpt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +64,9 @@
       <workItem from="1607921944880" duration="33000" />
       <workItem from="1607944754210" duration="50000" />
       <workItem from="1608226736283" duration="1226000" />
-      <workItem from="1608345213128" duration="3107000" />
+      <workItem from="1608345213128" duration="3715000" />
+      <workItem from="1608738436264" duration="263000" />
+      <workItem from="1609002031862" duration="435000" />
     </task>
     <task id="LOCAL-00001" summary="Update Readme.md">
       <created>1608227528403</created>
@@ -128,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608227951418</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1608350368342</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608350368342</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +132,7 @@
     <MESSAGE value="Add screenshot" />
     <MESSAGE value="Remove elections result" />
     <MESSAGE value="Update Readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Readme.md" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

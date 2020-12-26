@@ -27,6 +27,7 @@ if Pct < 30 then
     set Status to "Yes_Less"
   end if
   if Power = "No" then
+    say "sir, the battery is below 30%"
     set Status to "No_Less"
   end if
 end if
@@ -34,6 +35,7 @@ end if
 -- Battery charged & Battery percent more then 80
 if Pct > 85 then
   if Power = "Yes" then
+    say "Sir, the battery has reached 85%"
     set Status to "Yes_More"
   end if
   if Power = "No" then
